@@ -136,10 +136,9 @@ h5 {
 	color: white;
 	text-decoration: none;
 	font-weight: bold;
-	outline: 0;
 }
 
-.Menu a:hover {
+.Menu a:hover, Menu a:focus {
 	text-decoration: underline;
 }
 
